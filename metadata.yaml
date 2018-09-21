@@ -1,5 +1,8 @@
 _repo: Turmion-talo-Kertomus_54770
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lassila, Maiju
@@ -17,6 +20,8 @@ creator:
     - http://www.kirjasto.sci.fi/lassila.htm
     - http://fi.wikipedia.org/wiki/Algot_Untola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54770#Turmion-talo-Kertomus
 gutenberg_issued: '2017-05-23'
 gutenberg_type: Text
 identifiers:
